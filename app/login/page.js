@@ -16,6 +16,7 @@ const Login = () => {
   return (
     <div className='text-white py-14 container mx-auto'>
       <h1 className='text-center font-bold text-3xl'>Login to Get Started</h1>
+      <h2 className='text-center font-bold text-1xl'>Use Google or Github for login</h2>
 
       <div className="flex flex-col gap-2 min-h-screen items-center  p-10">
 
